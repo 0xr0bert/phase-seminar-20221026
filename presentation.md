@@ -78,7 +78,7 @@ margin: 0
 - Agents are created and assigned a range of characteristics:
     * a commute to fulfil (local, city, or beyond);
     * a neighbourhood, social network, and mobility culture; and
-    * some psychological veriables:
+    * some psychological variables:
         - suggestibility to friends and neighbours;
 	- adherence to norms;
 	- inertia/resistance to change; and
@@ -113,7 +113,7 @@ margin: 0
 ## Conclusions
 
 - Thinking about norms and habits are key.
-- In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrput this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
+- In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
 - By allowing many runs of the simulation, precise estimates of the effects within the model can be attained.
 - Further work could extend our model by calibrating the built environment data to see how the environment interacts with social norms.
 - The model is available under a permissive license at <https://gitlab.com/ragreener1/Motivate>. The specific version used is available at <https://doi.org/hvpd>. It is programmed in Rust, a modern high-performance systems programming language.
@@ -121,7 +121,7 @@ margin: 0
 
 ## End
 
-- Full paper available in the workshoop proceedings.
+- Full paper available in the workshop proceedings.
 - Source code available under a permissive free software license (<https://doi.org/hvpd>).
 - This research was funded by KCL–LSHTM seed funding. Robert Greener is supported by a Medical Research Council Studentship [grant number: MR/N0136638/1]. Steven Cummins is funded by Health Data Research UK (HDR-UK). HDR-UK is an initiative funded by the UK Research and Innovation, Department of Health and Social Care (England) and the devolved administrations, and leading medical research charities.
 - Any questions?
