@@ -7,6 +7,8 @@ revealjs-url: reveal.js
 navigationMode: linear
 width: \"90%\"
 height: \"100%\"
+bibliography: library.bib
+csl: ieee.csl
 margin: 0
 ---
 
@@ -26,3 +28,19 @@ margin: 0
 - We look at the higher-level mode-choice decision rather than the act of travel.
 - We aim to include the effect of the actions of peers and neighbours, subculture, habit, weather, bicycle ownership, car ownership, environmental supportiveness, and congestion on the decision to travel by walking, cycling, driving, or public transport.
 - All the parameters are configurable allowing for other users to calibrate the model to their own area of interest.
+
+# Methods
+
+## Some assumptions
+
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+- 4 options at every time step: walk, cycle, public transport, or drive.
+- Modelled loosely on Waltham Forest, a North Eastern London Borough.
+- Used a microsimulation approach to ensure wards (neighbourhoods) matched real life on things such as car ownership and commute distance. This used data from the UK Household Longitudinal Survey [@universityofessexUnderstandingSocietyWaves2020] and 2011 Census population data [@officefornationalstatistics2011CensusAggregate2017].
+:::
+::: {.column width="45%"}
+![](images/neighbourhood-grid.svg){width="80%"}
+:::
+::::::::::::::

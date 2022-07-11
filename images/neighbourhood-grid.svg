@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.582134mm"
+   height="30.951571mm"
+   viewBox="0 0 33.582134 30.951571"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="neighbourhood-grid-source.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.1754899"
+     inkscape:cx="-13.332071"
+     inkscape:cy="43.087708"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="2560"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker12724"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path12722"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.73362433,-0.36754403)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+       id="rect4053"
+       width="20"
+       height="25"
+       x="1"
+       y="2" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       id="path9311-56"
+       cx="14.640336"
+       cy="13.664313"
+       r="0.19672886" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       id="path9311-3"
+       cx="13.77276"
+       cy="14.821081"
+       r="0.19672886" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       id="path9311-5"
+       cx="12.218354"
+       cy="15.544061"
+       r="0.19672886" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 6,2 V 27"
+       id="path4835" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 11,2 V 27"
+       id="path4835-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16,2 V 27"
+       id="path4835-3-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1,7 H 21"
+       id="path6345" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path7073"
+       d="M 1,12 H 21" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1,17 H 21"
+       id="path7801" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1,22 H 21"
+       id="path8529" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       id="path9311"
+       cx="11.66922"
+       cy="13.161797"
+       r="0.19672886" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       id="path9311-7"
+       cx="12.652143"
+       cy="13.44742"
+       r="0.19672886" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="1.1294438"
+       y="1.4399877"
+       id="text9485"><tspan
+         sodipodi:role="line"
+         id="tspan9483"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         x="1.1294438"
+         y="1.4399877">Borough/district (n=1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="22.32979"
+       y="4.123075"
+       id="text9539"><tspan
+         sodipodi:role="line"
+         id="tspan9537"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         x="22.32979"
+         y="4.123075">Neighbourhood</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         x="22.32979"
+         y="5.8869624"
+         id="tspan9541">/small area (n=20)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="22.343901"
+       y="15.036995"
+       id="text10997"><tspan
+         sodipodi:role="line"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         x="22.343901"
+         y="15.036995"
+         id="tspan10999">Agent (n≈111,166)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="0.66871327"
+       y="29.21656"
+       id="text10997-2"><tspan
+         sodipodi:role="line"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         x="0.66871327"
+         y="29.21656"
+         id="tspan12492">Mean agents per neighbourhood is</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.41111px;stroke-width:0.264583"
+         x="0.66871327"
+         y="30.980448"
+         id="tspan12498">approx 5,500 (effectively ward scale)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 21.936684,4.7265814 H 18.324142"
+       id="path12500" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12724)"
+       d="M 21.959506,14.781494 H 15.026263"
+       id="path12720" />
+  </g>
+</svg>
