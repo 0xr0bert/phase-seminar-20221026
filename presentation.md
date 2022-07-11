@@ -8,7 +8,6 @@ navigationMode: linear
 width: \"90%\"
 height: \"100%\"
 bibliography: library.bib
-csl: ieee.csl
 margin: 0
 ---
 
@@ -44,3 +43,7 @@ margin: 0
 ![](images/neighbourhood-grid.svg){width="80%"}
 :::
 ::::::::::::::
+
+# Conclusion and end
+
+## References
