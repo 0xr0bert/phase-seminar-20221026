@@ -72,6 +72,18 @@ margin: 0
 :::
 ::::::::::::::
 
+## Model initialization
+
+- Agents are created and assigned a range of characteristics:
+    * a commute to fulfil (local, city, or beyond);
+    * a neighbourhood, social network, and mobility culture; and
+    * some psychological veriables:
+        - suggestibility to friends and neighbours;
+	- adherence to norms;
+	- inertia/resistance to change; and
+	- weather sensitivity.
+- Neighbourhoods are assigned a supportiveness and capacity.
+
 # Conclusion and end
 
 ## References
