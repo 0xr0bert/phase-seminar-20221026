@@ -56,6 +56,22 @@ margin: 0
 - We also allow for weather as a factor affecting daily mode choice.
     * Weather changes are *high-frequency*, imposing mode choice.
 
+## Agent assumptions
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+- Agents' norms arise through a combination of:
+    * their friends;
+    * their neighbours; and
+    * their mobility culture
+- A mobility culture could be seen as the process of creation and maintenance of allegiance to particular forms of mobility.
+- The main task of an agent is to commute to work with a travel mode.
+:::
+::: {.column width="45%"}
+![](images/agent-belongings.svg){width="80%"}
+:::
+::::::::::::::
+
 # Conclusion and end
 
 ## References
