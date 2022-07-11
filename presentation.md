@@ -109,4 +109,13 @@ margin: 0
 
 # Conclusion and end
 
+## Conclusions
+
+- Thinking about norms and habits are key.
+- In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrput this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
+- By allowing many runs of the simulation, precise estimates of the effects within the model can be attained.
+- Further work could extend our model by calibrating the built environment data to see how the environment interacts with social norms.
+- The model is available under a permissive license at <https://gitlab.com/ragreener1/Motivate>. The specific version used is available at <https://doi.org/hvpd>. It is programmed in Rust, a modern high-performance systems programming language.
+- The model is easily configurable using open standards (YAML) to define its parametrization.
+
 ## References
