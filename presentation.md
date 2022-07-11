@@ -80,9 +80,9 @@ margin: 0
     * a neighbourhood, social network, and mobility culture; and
     * some psychological variables:
         - suggestibility to friends and neighbours;
-	- adherence to norms;
-	- inertia/resistance to change; and
-	- weather sensitivity.
+        - adherence to norms;
+        - inertia/resistance to change; and
+        - weather sensitivity.
 - Neighbourhoods are assigned a supportiveness and capacity.
 
 ## A model run
