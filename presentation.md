@@ -19,6 +19,7 @@ margin: 0
 - Walking and cycling are good for people's physical and mental health, but also, they reduce dependency on motorized transport, particularly cars, which will reduce noise and air pollution, reduce the risk of road traffic injury, and help cardiovascular disease and obesity.
 - Therefore, there are significant population health gains to be made by moving people into more active modes of travel.
 - Social norms, as well as system-based approaches, are understudied in public health. However, these could be key to understanding what makes an intervention successful.
+- By norms, we refer to emergent social norms, i.e., behaviour which becomes prevalent through interaction, rather than prescriptive norms (obligation, prohibition, and permission)
 
 ## Model aims
 
