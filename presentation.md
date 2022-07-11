@@ -1,5 +1,5 @@
 ---
-title: Incorporating social norms into agent-based models evaluating the impact of active commuting intervention
+title: Incorporating social norms into a configurable agent-based model of the decision to perform commuting behaviour
 author: Robert Greener, Daniel Lewis, Jon Reades, Simon Miles, and Steven Cummins
 date: 25th July 2022
 theme: sky
