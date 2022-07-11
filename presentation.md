@@ -91,6 +91,22 @@ margin: 0
 - They also calculate a *cost* for each each mode (distance + environmental supportiveness + weather). This is ranked in reverse (higher cost = lower ranked cost).
 - Max of budget rank + reverse cost rank.
 
+# Experimentation
+
+## Modelling car-free days
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+- In order to demonstrate the utility of the model, we implemented an intervention  where cars were banned on Wednesdays.
+- After year 1, cars were banned. The simulation was run for 4 more years.
+- This introduced greater instability into the journeys taken, but significantly greater number of active commutes.
+- In the control scenario, over 200 runs, the odds of an active journey were 0.091 (89% HPDI: [0.091, 0.091]). The odds of an active journey were 77.7% (89% HPDI: [77.7%, 77.7%]) greater in the car-free days scenario.
+:::
+::: {.column width="45%"}
+![](images/cfd.png){width="80%" caption="14 day moving average of active commutes"}
+:::
+::::::::::::::
+
 # Conclusion and end
 
 ## References
