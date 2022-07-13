@@ -15,18 +15,16 @@ margin: 0
 
 ## Background
 
-- There is a growing commitment in the UK and worldwide to rebalancing the travel system, so that more journeys are made using more active modes, such as walking and cycling.
-- Walking and cycling are good for people's physical and mental health, but also, they reduce dependency on motorized transport, particularly cars, which will reduce noise and air pollution, reduce the risk of road traffic injury, and help cardiovascular disease and obesity.
+- Growing commitment in the UK and worldwide to rebalancing the travel system: more walking and cycling.
+- There are good for people's physical and mental health, reduce noise and air pollution, reduce the risk of road traffic injury, and help cardiovascular disease and obesity.
 - Therefore, there are significant population health gains to be made by moving people into more active modes of travel.
-- Social norms, as well as system-based approaches, are understudied in public health. However, these could be key to understanding what makes an intervention successful.
+- Social norms and system-based approaches, are understudied in public health. However, these could be key to understanding what makes an intervention successful.
 - By norms, we refer to emergent social norms, i.e., behaviour which becomes prevalent through interaction, rather than prescriptive norms (obligation, prohibition, and permission)
 
 ## Model aims
 
 - The aim is to build a configurable agent-based model of the *decision* to perform commuting behaviour.
 - The intended use of the model is to investigate interventions which seek to destabilize the convention of commuting by car.
-- This means that the actual process of commuting is not modelled -- we don't model how traffic flows through cities.
-- We look at the higher-level mode-choice decision rather than the act of travel.
 - We aim to include the effect of the actions of peers and neighbours, subculture, habit, weather, bicycle ownership, car ownership, environmental supportiveness, and congestion on the decision to travel by walking, cycling, driving, or public transport.
 - All the parameters are configurable allowing for other users to calibrate the model to their own area of interest.
 
@@ -84,10 +82,12 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
-- In order to demonstrate the utility of the model, we implemented an intervention  where cars were banned on Wednesdays.
-- After year 1, cars were banned. The simulation was run for 4 more years.
-- This introduced greater instability into the journeys taken, but significantly greater number of active commutes.
-- In the control scenario, over 200 runs, the odds of an active journey were 0.091 (89% HPDI: [0.091, 0.091]). The odds of an active journey were 77.7% (89% HPDI: [77.7%, 77.7%]) greater in the car-free days scenario.
+- After year 1, cars were banned on Wednesdays. The simulation was run for 4 more years.
+- 200 runs.
+- More instability.
+- More active commutes.
+- For every inactive journey, there were 0.091 active journeys (the odds).
+- The odds were 77.7% greater in car-free days scenario.
 :::
 ::: {.column width="45%"}
 ![](images/cfd.png){width="80%" caption="14 day moving average of active commutes"}
