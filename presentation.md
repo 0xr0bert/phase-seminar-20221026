@@ -38,7 +38,7 @@ margin: 0
 ::: {.column width="45%"}
 - 4 options at every time step: walk, cycle, public transport, or drive.
 - Modelled loosely on Waltham Forest, a North Eastern London Borough.
-- Used a microsimulation approach to ensure wards (neighbourhoods) matched real life on things such as car ownership and commute distance. This used data from the UK Household Longitudinal Survey [@universityofessexUnderstandingSocietyWaves2020] and 2011 Census population data [@officefornationalstatistics2011CensusAggregate2017].
+- Used a microsimulation approach to ensure wards (neighbourhoods) matched real life on things such as car ownership and commute distance. This used data from the UK Household Longitudinal Survey and 2011 Census population data.
 :::
 ::: {.column width="45%"}
 ![](images/neighbourhood-grid.svg){width="80%"}
@@ -123,5 +123,3 @@ margin: 0
 - The model is easily configurable using open standards (YAML) to define its parametrization.
 - This research was funded by KCL–LSHTM seed funding. Robert Greener is supported by a Medical Research Council Studentship [grant number: MR/N0136638/1]. Steven Cummins is funded by Health Data Research UK (HDR-UK). HDR-UK is an initiative funded by the UK Research and Innovation, Department of Health and Social Care (England) and the devolved administrations, and leading medical research charities.
 - Any questions?
-
-## References
