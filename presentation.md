@@ -8,7 +8,6 @@ navigationMode: linear
 width: 2560
 height: 1440
 bibliography: library.bib
-margin: 0
 ---
 
 # Background
