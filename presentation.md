@@ -11,8 +11,6 @@ bibliography: library.bib
 margin: 0
 ---
 
-# Background
-
 ## Background
 
 - Growing commitment in the UK and worldwide to rebalancing the travel system: more walking and cycling.
@@ -93,8 +91,6 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 ![](images/cfd.png){width="80%" caption="14 day moving average of active commutes"}
 :::
 ::::::::::::::
-
-# Conclusion and end
 
 ## Conclusions
 
