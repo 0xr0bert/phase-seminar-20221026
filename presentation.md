@@ -114,7 +114,6 @@ margin: 0
 
 - Thinking about norms and habits are key.
 - In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
-- By allowing many runs of the simulation, precise estimates of the effects within the model can be attained.
 - Further work could extend our model by calibrating the built environment data to see how the environment interacts with social norms.
 
 ## End
