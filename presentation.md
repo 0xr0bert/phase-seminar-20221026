@@ -57,19 +57,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 ## Agent assumptions
 
-:::::::::::::: {.columns}
-::: {.column width="45%"}
-- Agents' norms arise through a combination of:
-    * their friends;
-    * their neighbours; and
-    * their mobility culture
-- A mobility culture could be seen as the process of creation and maintenance of allegiance to particular forms of mobility.
-- The main task of an agent is to commute to work with a travel mode.
-:::
-::: {.column width="45%"}
-![](images/agent-belongings.svg){width="80%"}
-:::
-::::::::::::::
+![](images/agent-belongings.svg){width="50%"}
 
 ## Model initialization
 
