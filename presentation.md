@@ -98,10 +98,9 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 - In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
 - Further work could extend our model by calibrating the built environment data to see how the environment interacts with social norms.
 
-# End
+# Any questions?
 
 - Full paper available in the workshop proceedings.
 - The model is available under a permissive license at <https://gitlab.com/ragreener1/Motivate>. The specific version used is available at <https://doi.org/hvpd>. It is programmed in Rust, a modern high-performance systems programming language.
 - The model is easily configurable using open standards (YAML) to define its parametrization.
 - This research was funded by KCL–LSHTM seed funding. Robert Greener is supported by a Medical Research Council Studentship [grant number: MR/N0136638/1]. Steven Cummins is funded by Health Data Research UK (HDR-UK). HDR-UK is an initiative funded by the UK Research and Innovation, Department of Health and Social Care (England) and the devolved administrations, and leading medical research charities.
-- Any questions?
