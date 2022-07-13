@@ -13,7 +13,7 @@ margin: 0
 
 # Background
 
-- Active travel policies frame walking & cycling as 'good', cars are 'bad'!
+- Active travel policies frame walking & cycling as 'good', cars as 'bad'!
 - Perceptions of acceptable commute method vary by groups.
 - Social norms may explain this difference.
 
