@@ -112,7 +112,7 @@ margin: 0
 
 ## Conclusions
 
-- Thinking about norms and habits are key.
+- Thinking about norms and habits are key to understanding the decision to commute.
 - In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
 - Further work could extend our model by calibrating the built environment data to see how the environment interacts with social norms.
 
