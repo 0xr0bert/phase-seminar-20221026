@@ -32,8 +32,13 @@ margin: 0
 
 # Methods
 
-## Some assumptions
+## Waltham forest, London
 
+![](images/LondonWaltham.svg){height="80%"}
+
+Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
+
+## Some assumptions
 
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
