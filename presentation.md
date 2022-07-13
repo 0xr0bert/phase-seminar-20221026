@@ -30,6 +30,18 @@ margin: 0
     * access and support.
 - Fully configurable model to allow for parameter space exploration/adaptation.
 
+# Interventions
+
+:::: {.columns}
+::: {.column width="45%"}
+![](images/ltn.jpg){height="80%"}
+:::
+::: {.column width="45%"}
+![](images/ltn-ft.png){height="80%"}
+:::
+::::
+
+
 # Methods
 
 # Waltham Forest, London
