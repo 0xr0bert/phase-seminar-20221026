@@ -84,7 +84,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 - Each agent goes to work every weekday.
 - Each weekday, each agent calculates a *budget* of how much they are willing to commute by a given mode (norm + habit + congestion). This is then ranked.
-- They also calculate a *cost* for each each mode (distance + environmental supportiveness + weather). This is ranked in reverse (higher cost = lower ranked cost).
+- They also calculate a *cost* for each mode (distance + environmental supportiveness + weather). This is ranked in reverse (higher cost = lower ranked cost).
 - Max of budget rank + reverse cost rank.
 
 # Experimentation
