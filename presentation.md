@@ -24,6 +24,7 @@ margin: 0
 ## Model aims
 
 - The aim is to build a configurable agent-based model of the *decision* to perform commuting behaviour.
+- The intended use of the model is to investigate interventions which seek to destabilize the convention of commuting by car.
 - This means that the actual process of commuting is not modelled -- we don't model how traffic flows through cities.
 - We look at the higher-level mode-choice decision rather than the act of travel.
 - We aim to include the effect of the actions of peers and neighbours, subculture, habit, weather, bicycle ownership, car ownership, environmental supportiveness, and congestion on the decision to travel by walking, cycling, driving, or public transport.
