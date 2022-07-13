@@ -19,12 +19,16 @@ margin: 0
 - Social norms and system-based approaches, are understudied in public health. However, these could be key to understanding what makes an intervention successful.
 - By norms, we refer to emergent social norms, i.e., behaviour which becomes prevalent through interaction, rather than prescriptive norms (obligation, prohibition, and permission)
 
-# Model aims
+# Question & model overview
 
-- The aim is to build a configurable agent-based model of the *decision* to perform commuting behaviour.
-- The intended use of the model is to investigate interventions which seek to destabilize the convention of commuting by car.
-- We aim to include the effect of the actions of peers and neighbours, subculture, habit, weather, bicycle ownership, car ownership, environmental supportiveness, and congestion on the decision to travel by walking, cycling, driving, or public transport.
-- All the parameters are configurable allowing for other users to calibrate the model to their own area of interest.
+- **Research question**: What interventions may be successful at increasing active travel?
+- Need to better understand the decision-making process for commuters!
+- Not about traffic flow!
+- Incorporate:
+    * peer/neighbour effects;
+    * choice/habit; and
+    * access and support.
+- Fully configurable model to allow for parameter space exploration/adaptation.
 
 # Methods
 
