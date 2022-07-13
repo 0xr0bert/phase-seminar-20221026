@@ -32,7 +32,7 @@ margin: 0
 
 # Methods
 
-## Waltham forest, London
+## Waltham Forest, London
 
 ![](images/LondonWaltham.svg){height="80%"}
 
