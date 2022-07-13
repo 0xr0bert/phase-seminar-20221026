@@ -11,7 +11,7 @@ bibliography: library.bib
 margin: 0
 ---
 
-## Background
+# Background
 
 - Growing commitment in the UK and worldwide to rebalancing the travel system: more walking and cycling.
 - There are good for people's physical and mental health, reduce noise and air pollution, reduce the risk of road traffic injury, and help cardiovascular disease and obesity.
@@ -19,7 +19,7 @@ margin: 0
 - Social norms and system-based approaches, are understudied in public health. However, these could be key to understanding what makes an intervention successful.
 - By norms, we refer to emergent social norms, i.e., behaviour which becomes prevalent through interaction, rather than prescriptive norms (obligation, prohibition, and permission)
 
-## Model aims
+# Model aims
 
 - The aim is to build a configurable agent-based model of the *decision* to perform commuting behaviour.
 - The intended use of the model is to investigate interventions which seek to destabilize the convention of commuting by car.
@@ -28,13 +28,13 @@ margin: 0
 
 # Methods
 
-## Waltham Forest, London
+# Waltham Forest, London
 
 ![](images/LondonWaltham.svg){height="80%"}
 
 Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
-## Some assumptions
+# Some assumptions
 
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
@@ -47,15 +47,15 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 :::
 ::::::::::::::
 
-## Environmental assumptions
+# Environmental assumptions
 
 ![](images/environment.svg){width="80%"}
 
-## Agent assumptions
+# Agent assumptions
 
 ![](images/agent-belongings.svg){width="50%"}
 
-## Model initialization
+# Model initialization
 
 - Agents are created and assigned a range of characteristics:
     * a commute to fulfil (local, city, or beyond);
@@ -67,7 +67,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
         - weather sensitivity.
 - Neighbourhoods are assigned a supportiveness and capacity.
 
-## A model run
+# A model run
 
 - Each agent goes to work every weekday.
 - Each weekday, each agent calculates a *budget* of how much they are willing to commute by a given mode (norm + habit + congestion). This is then ranked.
@@ -76,7 +76,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 # Experimentation
 
-## Modelling car-free days
+# Modelling car-free days
 
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
@@ -92,13 +92,13 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 :::
 ::::::::::::::
 
-## Conclusions
+# Conclusions
 
 - Thinking about norms and habits are key to understanding the decision to commute.
 - In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
 - Further work could extend our model by calibrating the built environment data to see how the environment interacts with social norms.
 
-## End
+# End
 
 - Full paper available in the workshop proceedings.
 - The model is available under a permissive license at <https://gitlab.com/ragreener1/Motivate>. The specific version used is available at <https://doi.org/hvpd>. It is programmed in Rust, a modern high-performance systems programming language.
