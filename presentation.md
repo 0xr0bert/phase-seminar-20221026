@@ -53,15 +53,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 ## Environmental assumptions
 
-- Each agent lives in a neighbourhood.
-    * Neighbourhoods have a *supportiveness* for each transport mode.
-    * Neighbourhoods also have a physical *capacity* for each transport mode, which once passed results in *congestion*, a negative influence.
-    * There is variation in neighbourhood supportiveness and capacity between neighbourhoods.
-- Supportiveness is a *composite* configurable parameter.
-- We can change the score to reflect positive or negative changes in the supportiveness of the environment.
-    * Environmental changes are *low-frequency*, potentially working through norms.
-- We also allow for weather as a factor affecting daily mode choice.
-    * Weather changes are *high-frequency*, imposing mode choice.
+![](images/environment.svg){width="80%"}
 
 ## Agent assumptions
 

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="132.42001mm"
+   height="70.108177mm"
+   viewBox="0 0 132.42001 70.108177"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50674" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50671" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-4.7044104,-2.6894591)">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="11.491336"
+       y="24.456814"
+       id="text2695"><tspan
+         id="tspan2693"
+         style="stroke-width:0.264583"
+         x="11.491336"
+         y="24.456814">Capacity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="7.981472"
+       y="45.291183"
+       id="text10559"><tspan
+         id="tspan10557"
+         style="stroke-width:0.264583"
+         x="7.981472"
+         y="45.291183">Congestion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="59.239994"
+       y="24.456814"
+       id="text24987"><tspan
+         id="tspan24985"
+         style="stroke-width:0.264583"
+         x="59.239994"
+         y="24.456814">Supportiveness</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="110.62662"
+       y="24.456814"
+       id="text41935"><tspan
+         id="tspan41933"
+         style="stroke-width:0.264583"
+         x="110.62662"
+         y="24.456814">Weather</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="58.077274"
+       y="71.479889"
+       id="text48497"><tspan
+         id="tspan48495"
+         style="stroke-width:0.264583"
+         x="58.077274"
+         y="71.479889">Agent behaviour</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 23.01212,26.343547 V 40.573642"
+       id="path49854" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 22.624319,47.68869 58.10623,17.392343"
+       id="path50947" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 84.419825,26.475306 V 64.94927"
+       id="path50949" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 121.31266,25.684746 87.977365,65.21279"
+       id="path50951" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       id="rect51025"
+       width="132.15543"
+       height="35.048199"
+       x="4.8367019"
+       y="14.963761" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="58.331291"
+       y="7.2907286"
+       id="text57045"><tspan
+         id="tspan57043"
+         style="stroke-width:0.264583"
+         x="58.331291"
+         y="7.2907286">Environment</tspan></text>
+  </g>
+</svg>
