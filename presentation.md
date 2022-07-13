@@ -13,11 +13,9 @@ margin: 0
 
 # Background
 
-- Growing commitment in the UK and worldwide to rebalancing the travel system: more walking and cycling.
-- There are good for people's physical and mental health, reduce noise and air pollution, reduce the risk of road traffic injury, and help cardiovascular disease and obesity.
-- Therefore, there are significant population health gains to be made by moving people into more active modes of travel.
-- Social norms and system-based approaches, are understudied in public health. However, these could be key to understanding what makes an intervention successful.
-- By norms, we refer to emergent social norms, i.e., behaviour which becomes prevalent through interaction, rather than prescriptive norms (obligation, prohibition, and permission)
+- Active travel policies frame walking & cycling as 'good', cars are 'bad'!
+- Perceptions of acceptable commute method vary by groups.
+- Social norms may explain this difference.
 
 # Question & model overview
 
