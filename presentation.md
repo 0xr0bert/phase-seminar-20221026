@@ -5,8 +5,8 @@ date: 25th July 2022
 theme: sky
 revealjs-url: reveal.js
 navigationMode: linear
-width: \"90%\"
-height: \"100%\"
+width: 2560
+height: 1440
 bibliography: library.bib
 margin: 0
 ---
