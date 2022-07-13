@@ -17,17 +17,6 @@ margin: 0
 - Perceptions of acceptable commute method vary by groups.
 - Social norms may explain this difference.
 
-# Question & model overview
-
-- **Research question**: What interventions may be successful at increasing active travel?
-- Need to better understand the decision-making process for commuters!
-- Not about traffic flow!
-- Incorporate:
-    * peer/neighbour effects;
-    * choice/habit; and
-    * access and support.
-- Fully configurable model to allow for parameter space exploration/adaptation.
-
 # Interventions
 
 :::: {.columns}
@@ -39,6 +28,16 @@ margin: 0
 :::
 ::::
 
+# Question & model overview
+
+- **Research question**: What interventions may be successful at increasing active travel?
+- Need to better understand the decision-making process for commuters!
+- Not about traffic flow!
+- Incorporate:
+    * peer/neighbour effects;
+    * choice/habit; and
+    * access and support.
+- Fully configurable model to allow for parameter space exploration/adaptation.
 
 # Methods
 
