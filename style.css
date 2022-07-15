@@ -1,5 +1,14 @@
+.reveal h1 {
+    font-size: 2em;
+}
+
+.reveal h2 {
+    font-size: 1.5em;
+}
+
 h1.title {
     text-transform: none;
+    font-family: 'Open Sans', sans-serif;
 }
 
 div.small {

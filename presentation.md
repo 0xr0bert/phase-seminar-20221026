@@ -5,8 +5,8 @@ date: 25th July 2022
 theme: sky
 revealjs-url: reveal.js
 navigationMode: linear
-width: 2560
-height: 1440
+width: 1920
+height: 1080
 bibliography: library.bib
 ---
 
@@ -61,7 +61,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 # Environmental assumptions
 
-![](images/environment.svg){width="80%"}
+![](images/environment.svg){width="70%"}
 
 # Agent assumptions
 
