@@ -12,18 +12,17 @@ bibliography: library.bib
 
 # Background
 
-- Active travel policies frame walking & cycling as 'good', cars as 'bad'!
-- Perceptions of acceptable commute method vary by groups.
-- Social norms may explain this difference.
-
-# Interventions
-
 :::: {.columns}
 ::: {.column width="45%"}
-![](images/ltn.jpg){height="80%"}
+- Active travel policies frame walking & cycling as 'good', cars as 'bad'!
+
+- Perceptions of acceptable commute method vary by groups.
+
+- Social norms may explain this difference.
 :::
 ::: {.column width="45%"}
-![](images/ltn-ft.png){height="80%"}
+![](images/congestion-charge-telegraph.png){width="100%"}
+Daily Telegraph, 30th June 2022.
 :::
 ::::
 
