@@ -121,3 +121,8 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 ::: {.small}
 - This research was funded by KCL–LSHTM seed funding. Robert Greener is supported by a Medical Research Council Studentship [grant number: MR/N0136638/1]. Steven Cummins is funded by Health Data Research UK (HDR-UK). HDR-UK is an initiative funded by the UK Research and Innovation, Department of Health and Social Care (England) and the devolved administrations, and leading medical research charities.
 :::
+
+![](images/LSHTM-logo-bw.jpg){width="20%"}
+![](images/kcl.svg){width="13%"}
+![](images/Medical_Research_Council_logo.svg.png){width="33%"}
+![](images/philab.png){width="20%"}
