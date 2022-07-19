@@ -102,12 +102,19 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 :::
 ::::::::::::::
 
-# Conclusions & next steps
+# Conclusion
+
+## Summary
 
 - Thinking about norms and habits are key to understanding the decision to commute.
 - In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
 - Useful as a simulator of potential policies that may affect commuting-related norms.
-- Extend the model with real-world built environment data!
+
+## Limitations / Future work
+
+- The model currently does not use calibrated build environment data => extend it!
+- Personal journeys not considered.
+- Process of changing bike / car ownership.
 
 # Any questions?
 
