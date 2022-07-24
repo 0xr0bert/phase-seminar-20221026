@@ -6,7 +6,6 @@ institute:
 - ^2^ King's College London
 - ^3^ University College London
 date: 25th July 2022
-theme: sky
 revealjs-url: reveal.js
 navigationMode: linear
 width: 1920
