@@ -94,8 +94,8 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 - **Experiment**: After year 1, cars were banned on Wednesdays. The simulation was run for 4 more years.
 - 200 runs.
 - **Result**: More instability, but more active commutes.
-- In the control, for every inactive journey, there were 0.091 active journeys (the odds).
-- The odds were 77.7% greater in car-free days scenario.
+- In the control, for every inactive journey, there were 0.091 active journeys (the odds) (89% HPDI: [0.091, 0.091]).
+- The odds were 77.7% greater in car-free days scenario (89% HPDI: [77.7%, 77.7%]).
 :::
 ::: {.column width="45%"}
 ![](images/cfd.png){width="80%" caption="14 day moving average of active commutes"}
