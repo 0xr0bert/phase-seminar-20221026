@@ -13,7 +13,7 @@ height: 1080
 bibliography: library.bib
 ---
 
-# Background
+## Background
 
 :::: {.columns}
 ::: {.column width="45%"}
@@ -29,7 +29,7 @@ Daily Telegraph, 30th June 2022.
 :::
 ::::
 
-# Question & model overview
+## Question & model overview
 
 - **Research question**: What interventions may be successful at increasing active travel?
 - Need to better understand the decision-making process for commuters!
@@ -42,13 +42,13 @@ Daily Telegraph, 30th June 2022.
 
 # Methods
 
-# Waltham Forest, London
+## Waltham Forest, London
 
 ![](images/LondonWaltham.svg){height="80%"}
 
 Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
-# Some assumptions
+## Some assumptions
 
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
@@ -61,15 +61,15 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 :::
 ::::::::::::::
 
-# Environmental assumptions
+## Environmental assumptions
 
 ![](images/environment.svg){width="70%"}
 
-# Agent assumptions
+## Agent assumptions
 
 ![](images/agent-belongings.svg){width="50%"}
 
-# Model initialization
+## Model initialization
 
 - Agents are created and assigned a range of characteristics:
     * a commute to fulfil (local, city, or beyond);
@@ -81,7 +81,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
         - weather sensitivity.
 - Neighbourhoods are assigned a supportiveness and capacity.
 
-# A model run
+## A model run
 
 - Each agent goes to work every weekday.
 - Each weekday, each agent calculates a *budget* of how much they are willing to commute by a given mode (norm + habit + congestion). This is then ranked.
@@ -90,7 +90,7 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 
 # Experimentation
 
-# Modelling car-free days
+## Modelling car-free days
 
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
@@ -105,27 +105,27 @@ Waltham Forest by Morwen and Richtom80 (<https://bit.ly/3yYFzLF>)
 :::
 ::::::::::::::
 
-# Conclusion
+## Conclusion
 
-## Summary
+### Summary
 
 - Thinking about norms and habits are key to understanding the decision to commute.
 - In our sample intervention, habits and norms allow us to destabilize the convention of commuting by car. We disrupt this convention by preventing the effect of habit (on car-free days); this then leads to a change in norm.
 - Useful as a simulator of potential policies that may affect commuting-related norms.
 
-## Limitations / Future work
+### Limitations / Future work
 
 - The model currently does not use calibrated build environment data => extend it!
 - Personal journeys not considered.
 - Process of changing bike / car ownership.
 
-# Any questions?
+## Any questions?
 
 - Full paper available in the workshop proceedings.
 - The model is available under a permissive license at <https://gitlab.com/ragreener1/Motivate>. The specific version used is available at <https://doi.org/hvpd>.
 - The model is easily configurable using open standards (YAML) to define its parametrization.
 
-## Acknowledgements
+### Acknowledgements
 
 ::: {.small}
 - This research was funded by KCL–LSHTM seed funding. Robert Greener is supported by a Medical Research Council Studentship [grant number: MR/N0136638/1]. Steven Cummins is funded by Health Data Research UK (HDR-UK). HDR-UK is an initiative funded by the UK Research and Innovation, Department of Health and Social Care (England) and the devolved administrations, and leading medical research charities.
