@@ -1,6 +1,10 @@
 ---
 title: "MOTIVATE: Incorporating social norms into a configurable ABM of the decision to perform commuting behaviour"
-author: Robert Greener, Daniel Lewis, Jon Reades, Simon Miles, and Steven Cummins
+author: Robert Greener^1,2^, Daniel Lewis^1^, Jon Reades^3^, Simon Miles^2^, and Steven Cummins^1^
+institute:
+- ^1^ London School of Hygiene and Tropical Medicine
+- ^2^ King's College London
+- ^3^ University College London
 date: 25th July 2022
 theme: sky
 revealjs-url: reveal.js
